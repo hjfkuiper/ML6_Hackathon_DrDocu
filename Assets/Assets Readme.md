@@ -1,28 +1,28 @@
 # Assets
 
-Deze map bevat de officiële documentatietemplates voor het ML6 Hackathon DrDocu project. Gebruik deze templates als startpunt voor het opstellen van technische documentatie.
+This folder contains the official documentation templates for the ML6 Hackathon DrDocu project. Use these templates as a starting point for writing technical documentation.
 
-## Inhoud
+## Contents
 
-| Bestand | Type | Omschrijving |
+| File | Type | Description |
 |---|---|---|
-| `TLD-TEMPLATE.md` | Top Level Design | Hoogover technisch ontwerp van een oplossing of systeem |
-| `LD-TEMPLATE.md` | Low Design | Gedetailleerde technische uitwerking van een TLD |
-| `TO-TEMPLATE.md` | Technisch Ontwerp | Beschrijving van technische keuzes, architectuur en implementatie |
+| `TLD-TEMPLATE.md` | Top Level Design | High-level technical design of a solution or system |
+| `LD-TEMPLATE.md` | Level Design | Detailed technical elaboration of a TLD |
+| `TO-TEMPLATE.md` | Technical Design | Description of technical choices, architecture, and implementation |
 
-## Gebruik
+## Usage
 
-1. Kopieer het gewenste template naar de juiste map in je project.
-2. Hernoem het bestand op basis van het document-ID (bijv. `TLD-001.md`).
-3. Vul alle velden in en verwijder de instructiecommentaren.
-4. Zet de status op `DRAFT` bij aanmaak, `REVIEW` bij beoordeling en `APPROVED` na goedkeuring.
+1. Copy the desired template to the appropriate folder in your project.
+2. Rename the file based on the document ID (e.g. `TLD-001.md`).
+3. Fill in all fields and remove the instructional comments.
+4. Set the status to `DRAFT` on creation, `REVIEW` during review, and `APPROVED` after approval.
 
-## Documenthiërarchie
+## Document Hierarchy
 
 ```
 TLD (Top Level Design)
-└── LD (Low Design)
-    └── TO (Technisch Ontwerp)
+└── LD (Level Design)
+    └── TO (Technical Design)
 ```
 
-Een TLD geeft de hoogover richting, een LD werkt dit verder uit per component, en een TO beschrijft de concrete technische implementatie.
+A TLD provides the high-level direction, an LD elaborates on this per component, and a TO describes the concrete technical implementation.

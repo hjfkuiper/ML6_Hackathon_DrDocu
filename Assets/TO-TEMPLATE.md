@@ -3,99 +3,99 @@
 | | |
 |---|---|
 | **Document ID** | TO-XXX-XXX |
-| **Versie** | 0.1 |
+| **Version** | 0.1 |
 | **Status** | DRAFT / REVIEW / APPROVED |
-| **Datum** | YYYY-MM-DD |
-| **Auteur** | |
-| **Eigenaar** | |
-| **Gerelateerde TLD/LD** | |
-| **Classificatie** | |
+| **Date** | YYYY-MM-DD |
+| **Author** | |
+| **Owner** | |
+| **Related TLD/LD** | |
+| **Classification** | |
 
 ---
 
-## 1. Doel
+## 1. Purpose
 
-<!-- Wat doet deze Technical Order? Welk systeem, component of handeling beschrijft het? -->
+<!-- What does this Technical Design cover? Which system, component, or action does it describe? -->
 
 ---
 
-## 2. Toepassingsgebied
+## 2. Applicability
 
-<!-- Op welke omgeving, versie of configuratie is dit TO van toepassing? -->
+<!-- To which environment, version, or configuration does this TO apply? -->
 
-| Omgeving | Versie | Geldig vanaf |
+| Environment | Version | Valid From |
 |---|---|---|
 | | | |
 
 ---
 
-## 3. Referentiedocumenten
+## 3. Reference Documents
 
-| ID | Titel | Versie |
+| ID | Title | Version |
 |---|---|---|
 | | | |
 
 ---
 
-## 4. Vereisten vooraf
+## 4. Prerequisites
 
-<!-- Wat moet aanwezig of gereed zijn voordat dit TO uitgevoerd kan worden? -->
+<!-- What must be present or ready before this TO can be executed? -->
 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
 
 ---
 
 ## 5. Procedure
 
-<!-- Stap-voor-stap instructie. Elke stap: actie, verwacht resultaat, verificatie. -->
+<!-- Step-by-step instruction. Each step: action, expected result, verification. -->
 
-### Stap 1 — [Titel]
+### Step 1 — [Title]
 
-**Actie:**
+**Action:**
 
-**Verwacht resultaat:**
+**Expected Result:**
 
-**Verificatie:**
-
----
-
-### Stap 2 — [Titel]
-
-**Actie:**
-
-**Verwacht resultaat:**
-
-**Verificatie:**
+**Verification:**
 
 ---
 
-## 6. Verificatie en acceptatiecriteria
+### Step 2 — [Title]
 
-<!-- Hoe weet je dat de TO succesvol is uitgevoerd? -->
+**Action:**
 
-| Criterium | Verificatiemethode | Acceptatiewaarde |
+**Expected Result:**
+
+**Verification:**
+
+---
+
+## 6. Verification and Acceptance Criteria
+
+<!-- How do you know the TO has been executed successfully? -->
+
+| Criterion | Verification Method | Acceptance Value |
 |---|---|---|
 | | | |
 
 ---
 
-## 7. Rollback procedure
+## 7. Rollback Procedure
 
-<!-- Wat doe je als de procedure mislukt of teruggedraaid moet worden? -->
+<!-- What do you do if the procedure fails or needs to be reversed? -->
 
 ---
 
-## 8. Bekende issues en workarounds
+## 8. Known Issues and Workarounds
 
-| Issue | Omstandigheid | Workaround |
+| Issue | Circumstance | Workaround |
 |---|---|---|
 | | | |
 
 ---
 
-## 9. Wijzigingshistorie
+## 9. Change History
 
-| Versie | Datum | Auteur | Wijziging |
+| Version | Date | Author | Change |
 |---|---|---|---|
-| 0.1 | YYYY-MM-DD | | Initieel document |
+| 0.1 | YYYY-MM-DD | | Initial document |

@@ -5,6 +5,8 @@ ML6 HACKATHON
 DRDOC IS GONNA ROCK
 GOES BRRRRRRRRrrrrrrrrr
 
+DrDOC is a Claude powered agent that create a full documentation set for any git repo you throw at it. It will generate documentation on 3 levels:
+
 TLD, LD en TO — documenthiërarchie voor complexe IT-programma's
 TLD — Top Level Design
 Het TLD beschrijft het volledige systeem op programmaniveau. Het geeft antwoord op de vragen wat bouwen we, voor wie en waarom. Typische inhoud: architectuurprincipes, scope en grenzen van het systeem, de gekozen technologiestacks op hoofdlijn, stakeholders, risico's en een register van alle onderliggende documenten.

@@ -3,81 +3,81 @@
 | | |
 |---|---|
 | **Document ID** | TLD-XXX |
-| **Versie** | 0.1 |
+| **Version** | 0.1 |
 | **Status** | DRAFT / REVIEW / APPROVED |
-| **Datum** | YYYY-MM-DD |
-| **Auteur** | |
-| **Eigenaar** | |
-| **Classificatie** | |
+| **Date** | YYYY-MM-DD |
+| **Author** | |
+| **Owner** | |
+| **Classification** | |
 
 ---
 
-## 1. Doel
+## 1. Purpose
 
-<!-- Wat beschrijft dit document en voor wie is het bestemd? -->
+<!-- What does this document describe and who is it intended for? -->
 
 ---
 
 ## 2. Scope
 
-<!-- Wat valt binnen scope. Wat valt buiten scope. -->
+<!-- What is in scope. What is out of scope. -->
 
 **In scope:**
 
-**Buiten scope:**
+**Out of scope:**
 
 ---
 
-## 3. Referentiedocumenten
+## 3. Reference Documents
 
-| ID | Titel | Versie |
+| ID | Title | Version |
 |---|---|---|
 | | | |
 
 ---
 
-## 4. Definities en afkortingen
+## 4. Definitions and Abbreviations
 
-| Term | Definitie |
+| Term | Definition |
 |---|---|
 | | |
 
 ---
 
-## 5. Architectuuroverzicht
+## 5. Architecture Overview
 
-<!-- Beschrijf op hoog niveau de oplossing, context en samenhang. Voeg diagram in indien van toepassing. -->
+<!-- Describe the solution, context, and overall structure at a high level. Include a diagram where applicable. -->
 
 ---
 
-## 6. Ontwerpbeslissingen
+## 6. Design Decisions
 
-<!-- Welke keuzes zijn gemaakt, waarom, en welke alternatieven zijn afgewogen? -->
+<!-- What choices were made, why, and what alternatives were considered? -->
 
-| Beslissing | Motivatie | Alternatief overwogen |
+| Decision | Rationale | Alternative Considered |
 |---|---|---|
 | | | |
 
 ---
 
-## 7. Afhankelijkheden
+## 7. Dependencies
 
-| Component | Eigenaar | Status |
+| Component | Owner | Status |
 |---|---|---|
 | | | |
 
 ---
 
-## 8. Risico's
+## 8. Risks
 
-| ID | Omschrijving | Impact | Kans | Eigenaar | Mitigatie |
+| ID | Description | Impact | Probability | Owner | Mitigation |
 |---|---|---|---|---|---|
 | | | | | | |
 
 ---
 
-## 9. Wijzigingshistorie
+## 9. Change History
 
-| Versie | Datum | Auteur | Wijziging |
+| Version | Date | Author | Change |
 |---|---|---|---|
-| 0.1 | YYYY-MM-DD | | Initieel document |
+| 0.1 | YYYY-MM-DD | | Initial document |

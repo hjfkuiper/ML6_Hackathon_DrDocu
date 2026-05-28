@@ -3,19 +3,19 @@
 | | |
 |---|---|
 | **Document ID** | LD-XXX |
-| **Versie** | 0.1 |
+| **Version** | 0.1 |
 | **Status** | DRAFT / REVIEW / APPROVED |
-| **Datum** | YYYY-MM-DD |
-| **Auteur** | |
-| **Eigenaar** | |
-| **Gerelateerde TLD** | TLD-XXX |
-| **Classificatie** | |
+| **Date** | YYYY-MM-DD |
+| **Author** | |
+| **Owner** | |
+| **Related TLD** | TLD-XXX |
+| **Classification** | |
 
 ---
 
-## 1. Doel
+## 1. Purpose
 
-<!-- Wat beschrijft dit document? Welke TLD werkt dit verder uit? -->
+<!-- What does this document describe? Which TLD does it elaborate on? -->
 
 ---
 
@@ -23,70 +23,70 @@
 
 **In scope:**
 
-**Buiten scope:**
+**Out of scope:**
 
 ---
 
-## 3. Referentiedocumenten
+## 3. Reference Documents
 
-| ID | Titel | Versie |
+| ID | Title | Version |
 |---|---|---|
 | | | |
 
 ---
 
-## 4. Definities en afkortingen
+## 4. Definitions and Abbreviations
 
-| Term | Definitie |
+| Term | Definition |
 |---|---|
 | | |
 
 ---
 
-## 5. Gedetailleerd ontwerp
+## 5. Detailed Design
 
-<!-- Beschrijf de technische uitwerking van de oplossing. Subsecties per component of deelgebied. -->
+<!-- Describe the technical elaboration of the solution. Use subsections per component or domain. -->
 
-### 5.1 [Component / Deelgebied]
+### 5.1 [Component / Domain]
 
-### 5.2 [Component / Deelgebied]
+### 5.2 [Component / Domain]
 
 ---
 
 ## 6. Interfaces
 
-<!-- Beschrijf alle interne en externe interfaces: protocollen, formaten, endpoints, authenticatie. -->
+<!-- Describe all internal and external interfaces: protocols, formats, endpoints, authentication. -->
 
-| Interface | Richting | Protocol | Beschrijving |
+| Interface | Direction | Protocol | Description |
 |---|---|---|---|
 | | | | |
 
 ---
 
-## 7. Configuratie
+## 7. Configuration
 
-<!-- Relevante configuratieparameters, defaults en toegestane waarden. -->
+<!-- Relevant configuration parameters, defaults, and allowed values. -->
 
-| Parameter | Default | Toegestane waarden | Beschrijving |
+| Parameter | Default | Allowed Values | Description |
 |---|---|---|---|
 | | | | |
 
 ---
 
-## 8. Beperkingen en randvoorwaarden
+## 8. Constraints and Preconditions
 
-<!-- Technische, organisatorische of contractuele beperkingen die het ontwerp beïnvloeden. -->
-
----
-
-## 9. Testoverwegingen
-
-<!-- Wat moet gevalideerd worden op basis van dit document? -->
+<!-- Technical, organisational, or contractual constraints that influence the design. -->
 
 ---
 
-## 10. Wijzigingshistorie
+## 9. Test Considerations
 
-| Versie | Datum | Auteur | Wijziging |
+<!-- What must be validated based on this document? -->
+
+---
+
+## 10. Change History
+
+| Version | Date | Author | Change |
 |---|---|---|---|
-| 0.1 | YYYY-MM-DD | | Initieel document |
+| 0.1 | YYYY-MM-DD | | Initial document |
